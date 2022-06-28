@@ -4,6 +4,6 @@ Predicción de Videos Bestsellers
 
 Autores:
 
-* Juan Bocco
-* Pablo Ceci
-* Tomás Delvechio
+* [Juan Bocco](https://github.com/JuanBocco)
+* [Pablo Ceci](https://github.com/CeciPablo)
+* [Tomás Delvechio](https://github.com/tomasdelvechio)
